@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0EDF-FD28
+
+ Directory of C:\Users\anehl\OneDrive\Desktop\Nyan Project
+
+07/15/2021  12:00 AM    <DIR>          .
+07/15/2021  12:00 AM    <DIR>          ..
+07/15/2021  12:00 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  311,731,179,520 bytes free
